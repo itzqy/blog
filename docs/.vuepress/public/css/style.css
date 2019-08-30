@@ -1,0 +1,9 @@
+#app .navbar .home-link span:before{
+    display: inline-block;
+    content: '';
+    width: 2.4rem;
+    height: 2.4rem;
+    background: url(../img/Hero.png) no-repeat;
+    background-size: 80% 80%;
+    vertical-align: middle;
+}
