@@ -16,7 +16,7 @@ module.exports = {
     themeConfig: {
         repo: 'itzqy/blog',
         docsDir: 'docs',
-        docsBranch: 'master:gh-pages',
+        // docsBranch: 'master:gh-pages',
         nav:require("./nav.js"),
         sidebar:require("./sidebar.js"),
         sidebarDepth: 2,
